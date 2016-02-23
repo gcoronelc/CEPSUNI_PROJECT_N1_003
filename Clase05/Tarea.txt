@@ -1,0 +1,8 @@
+En un proyecto de dos meses de duración
+se tiene que agregar el alquiler de una casa
+para el trabajo de campo.
+
+El alquiler cuesta 1,000.00 por mes.
+
+como se debe agregar.
+
